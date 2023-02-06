@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/Chip-8.dir/src/SDLMain.c.o CMakeFiles/Chip-8.dir/src/decoder.c.o CMakeFiles/Chip-8.dir/src/intructions.c.o  -o Chip-8  -lSDL2 
